@@ -1,0 +1,6 @@
+#page-header:not(.not-top-img):before {
+    position: unset;
+}
+#footer {
+    background: transparent;
+}
