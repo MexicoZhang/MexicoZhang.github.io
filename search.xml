@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>zTree的使用方法</title>
+      <link href="/2022/07/01/zTree%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+      <url>/2022/07/01/zTree%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、zTree介绍"><a href="#一、zTree介绍" class="headerlink" title="一、zTree介绍"></a>一、zTree介绍</h1><p><a href="https://treejs.cn/v3/main.php#_zTreeInfo">下载地址</a></p><h2 id="（一）简介"><a href="#（一）简介" class="headerlink" title="（一）简介"></a>（一）简介</h2><p>zTree 是一个依靠 jQuery 实现的多功能 “树插件”。优异的性能、灵活的配置、多种功能的组合是 zTree 最大优点。</p><h2 id="（二）特点"><a href="#（二）特点" class="headerlink" title="（二）特点"></a>（二）特点</h2><p>1、zTree 是开源免费的软件, 使用 MIT 许可证。<br>2、(zTree v3.x 将核心代码按照功能进行了分割，不需要的代码可以不用加载。<br>3、采用了 延迟加载 技术，上万节点轻松加载，即使在 IE6 下也能基本做到秒杀。<br>4、兼容 IE、FireFox?、Chrome、Opera、Safari 等浏览器。<br>5、支持 JSON 数据。<br>6、支持静态 和 Ajax 异步加载节点数据。<br>7、支持任意更换皮肤 / 自定义图标。<br>8、支持极其灵活的 checkbox 或 radio 选择功能。<br>9、提供多种事件响应回调。<br>10、灵活的编辑（增/删/改/查）功能，可随意拖拽节点，还可以多节点拖拽。<br>11、在一个页面内可同时生成多个 Tree 实例。<br>12、简单的参数配置实现 灵活多变的功能。<br>13、zTree v3.x（JQuery Tree 插件），性能全面提升，js &amp; css 架构全面调整，提供更好的兼容性和易开发性。</p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新生选宿舍系统</title>
       <link href="/2022/05/10/%E6%96%B0%E7%94%9F%E9%80%89%E5%AE%BF%E8%88%8D%E7%B3%BB%E7%BB%9F/"/>
       <url>/2022/05/10/%E6%96%B0%E7%94%9F%E9%80%89%E5%AE%BF%E8%88%8D%E7%B3%BB%E7%BB%9F/</url>
