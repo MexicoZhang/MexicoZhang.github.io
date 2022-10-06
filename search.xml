@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2022/10/06/hello-world/"/>
+      <url>/2022/10/06/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>zTree的使用方法</title>
       <link href="/2022/07/01/zTree%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
       <url>/2022/07/01/zTree%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
@@ -11,6 +24,18 @@
         <content type="html"><![CDATA[<h1 id="一、zTree介绍"><a href="#一、zTree介绍" class="headerlink" title="一、zTree介绍"></a>一、zTree介绍</h1><p><a href="https://treejs.cn/v3/main.php#_zTreeInfo">下载地址</a></p><h2 id="（一）简介"><a href="#（一）简介" class="headerlink" title="（一）简介"></a>（一）简介</h2><p>zTree 是一个依靠 jQuery 实现的多功能 “树插件”。优异的性能、灵活的配置、多种功能的组合是 zTree 最大优点。</p><h2 id="（二）特点"><a href="#（二）特点" class="headerlink" title="（二）特点"></a>（二）特点</h2><p>1、zTree 是开源免费的软件, 使用 MIT 许可证。<br>2、(zTree v3.x 将核心代码按照功能进行了分割，不需要的代码可以不用加载。<br>3、采用了 延迟加载 技术，上万节点轻松加载，即使在 IE6 下也能基本做到秒杀。<br>4、兼容 IE、FireFox?、Chrome、Opera、Safari 等浏览器。<br>5、支持 JSON 数据。<br>6、支持静态 和 Ajax 异步加载节点数据。<br>7、支持任意更换皮肤 / 自定义图标。<br>8、支持极其灵活的 checkbox 或 radio 选择功能。<br>9、提供多种事件响应回调。<br>10、灵活的编辑（增/删/改/查）功能，可随意拖拽节点，还可以多节点拖拽。<br>11、在一个页面内可同时生成多个 Tree 实例。<br>12、简单的参数配置实现 灵活多变的功能。<br>13、zTree v3.x（JQuery Tree 插件），性能全面提升，js &amp; css 架构全面调整，提供更好的兼容性和易开发性。</p><hr>]]></content>
       
       
+      <categories>
+          
+          <category> zTree </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> zTree </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +49,43 @@
         <content type="html"><![CDATA[<h1 id="新生选宿舍系统"><a href="#新生选宿舍系统" class="headerlink" title="新生选宿舍系统"></a><a href="http://110.42.129.249:8080/web/page/login.html">新生选宿舍系统</a></h1>]]></content>
       
       
+      <categories>
+          
+          <category> 毕设 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 毕设 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这里什么也没有</title>
+      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/"/>
+      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="测试用"><a href="#测试用" class="headerlink" title="测试用"></a>测试用</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -37,19 +99,18 @@
         <content type="html"><![CDATA[<h1 id="一、Spring框架"><a href="#一、Spring框架" class="headerlink" title="一、Spring框架"></a>一、Spring框架</h1><h2 id="（一）Spring框架概述"><a href="#（一）Spring框架概述" class="headerlink" title="（一）Spring框架概述"></a>（一）Spring框架概述</h2><p> 1、Spring 是轻量级的开源的 JavaEE 框架<br> （1）轻量级：jar包少、体量小、用spring过程中不需要引入其他的组件，自己可以直接使用<br> （2）开源：免费提供源代码<br> （3）框架：开放更加方便，代码更加简洁<br> 2、Spring 可以解决企业应用开发的复杂性<br> 3、Spring 有两个核心部分:IOC 和 Aop<br> （1）IOC：控制反转，把创建对象过程交给 Spring 进行管理<br> （2）Aop：面向切面，不修改源代码进行功能增强</p><h2 id="（二）Spring-特点"><a href="#（二）Spring-特点" class="headerlink" title="（二）Spring 特点"></a>（二）Spring 特点</h2><p> （1）方便解耦，简化开发<br> （2） Aop 编程支持<br> （3）方便程序测试(Junit4)<br> （4）方便和其他框架进行整合<br> （5）方便进行事务操作<br> （6）降低 API 开发难度</p><h1 id="二、Spring下载"><a href="#二、Spring下载" class="headerlink" title="二、Spring下载"></a>二、Spring下载</h1><h2 id="（一）下载地址"><a href="#（一）下载地址" class="headerlink" title="（一）下载地址"></a>（一）<a href="https://repo.spring.io/ui/native/release/org/springframework/spring">下载地址</a></h2><p> 注：选择最新release稳定版本<br><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/Spring5download.bmp" alt="选择最新release稳定版本"><br> 解压后可看到都是由RELEASE，java-doc,sources三个构成，分别为jar包、文档、源代码<br><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/spring5file.bmp" alt="解压后目录中"><br> 如果使用Spring5的基本功能，则需要4个jar包，也就是Core Container 中的beans与core对应ioc、上下文、表达式<br><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/Spring5mokuai.bmp" alt="Spring5模块"><br> commons-logging-1.1.1日志的包也需要，所以总共如下5个包<br><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/spring5packet.bmp" alt="Spring5基本包"><br> 在idea中创建java项目并导入5个jar包</p><h2 id="（二）idea中创建spring项目"><a href="#（二）idea中创建spring项目" class="headerlink" title="（二）idea中创建spring项目"></a>（二）idea中创建spring项目</h2><p><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/ideaspring5.bmp" alt="idea创建spring项目"><br> src下创建普通类，在这个类里创建普通方法</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">package com.atzhang.spring5;</span><br><span class="line"></span><br><span class="line">public class User &#123;</span><br><span class="line">    public void add()&#123;</span><br><span class="line">        System.out.println(&quot;add....&quot;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p> src下创建Spring配置文件，在配置文件配置创建的对象（class路径，id名字）<br><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/ideaspring2.bmp" alt="创建xml配置文件"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span><br><span class="line">&lt;beans xmlns=&quot;http://www.springframework.org/schema/beans&quot;</span><br><span class="line">       xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</span><br><span class="line">       xsi:schemaLocation=&quot;http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd&quot;&gt;</span><br><span class="line">&lt;!--配置User对象创建--&gt;</span><br><span class="line">    &lt;bean id=&quot;user&quot; class=&quot;com.atzhang.spring5.User&quot;&gt;&lt;/bean&gt;</span><br><span class="line">&lt;/beans&gt;</span><br></pre></td></tr></table></figure><h2 id="（三）最终进行测试"><a href="#（三）最终进行测试" class="headerlink" title="（三）最终进行测试"></a>（三）最终进行测试</h2><p><img src="https://cdn.jsdelivr.net/gh/MexicoZhang/PicGo/img/ceshi.bmp" alt="测试结果"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">package com.atzhang.spring5.testdemo;</span><br><span class="line"></span><br><span class="line">import com.atzhang.spring5.User;</span><br><span class="line">import org.junit.Test;</span><br><span class="line">import org.springframework.context.ApplicationContext;</span><br><span class="line">import org.springframework.context.support.ClassPathXmlApplicationContext;</span><br><span class="line"></span><br><span class="line">public class TestSpring &#123;</span><br><span class="line">    @Test</span><br><span class="line">    public void testadd()&#123;</span><br><span class="line">        //加载spring配置文件</span><br><span class="line">        ApplicationContext context = new ClassPathXmlApplicationContext(&quot;bean1.xml&quot;);</span><br><span class="line">        //获取配置创建得对象</span><br><span class="line">        User user = context.getBean(&quot;user&quot;, User.class);</span><br><span class="line">        System.out.println(user);//输出地址</span><br><span class="line">        user.add();</span><br><span class="line">    &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/01/10/hello-world/"/>
-      <url>/2022/01/10/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      <categories>
+          
+          <category> Spring </category>
+          
+      </categories>
       
       
+        <tags>
+            
+            <tag> Spring </tag>
+            
+        </tags>
       
     </entry>
     
